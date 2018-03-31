@@ -1,0 +1,9 @@
+﻿@model IEnumerable<AspNetCoreViewComponent.Models.Student>
+
+<h3>Students</h3>
+<ul>
+    @foreach (var student in Model)
+    {
+    <li>@student.Id - @student.Name</li>
+    }
+</ul>

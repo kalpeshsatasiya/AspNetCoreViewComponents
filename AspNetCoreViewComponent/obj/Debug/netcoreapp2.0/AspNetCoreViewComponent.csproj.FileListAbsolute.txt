@@ -1,0 +1,11 @@
+D:\WORK\R&D\AspNetCoreViewComponent\AspNetCoreViewComponent\bin\Debug\netcoreapp2.0\AspNetCoreViewComponent.deps.json
+D:\WORK\R&D\AspNetCoreViewComponent\AspNetCoreViewComponent\bin\Debug\netcoreapp2.0\AspNetCoreViewComponent.runtimeconfig.json
+D:\WORK\R&D\AspNetCoreViewComponent\AspNetCoreViewComponent\bin\Debug\netcoreapp2.0\AspNetCoreViewComponent.runtimeconfig.dev.json
+D:\WORK\R&D\AspNetCoreViewComponent\AspNetCoreViewComponent\bin\Debug\netcoreapp2.0\AspNetCoreViewComponent.dll
+D:\WORK\R&D\AspNetCoreViewComponent\AspNetCoreViewComponent\bin\Debug\netcoreapp2.0\AspNetCoreViewComponent.pdb
+D:\WORK\R&D\AspNetCoreViewComponent\AspNetCoreViewComponent\obj\Debug\netcoreapp2.0\AspNetCoreViewComponent.csproj.CoreCompileInputs.cache
+D:\WORK\R&D\AspNetCoreViewComponent\AspNetCoreViewComponent\obj\Debug\netcoreapp2.0\AspNetCoreViewComponent.AssemblyInfoInputs.cache
+D:\WORK\R&D\AspNetCoreViewComponent\AspNetCoreViewComponent\obj\Debug\netcoreapp2.0\AspNetCoreViewComponent.AssemblyInfo.cs
+D:\WORK\R&D\AspNetCoreViewComponent\AspNetCoreViewComponent\obj\Debug\netcoreapp2.0\AspNetCoreViewComponent.dll
+D:\WORK\R&D\AspNetCoreViewComponent\AspNetCoreViewComponent\obj\Debug\netcoreapp2.0\AspNetCoreViewComponent.pdb
+D:\WORK\R&D\AspNetCoreViewComponent\AspNetCoreViewComponent\obj\Debug\netcoreapp2.0\AspNetCoreViewComponent.csprojResolveAssemblyReference.cache

@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Students";
+}
+
+<div class="row">
+    <h3>View Component Example using Tag Helper</h3>
+    @await Component.InvokeAsync("StudentList", new { noOfStudent = 2})
+
+    <vc:student-list no-of-student="5">
+    </vc:student-list>
+
+</div>
